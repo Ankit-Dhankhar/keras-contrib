@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/why-use-keras/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/getting-started/sequential-model-guide/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/getting-started/functional-api-guide/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/getting-started/faq/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/models/about-keras-models/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/models/sequential/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/models/model/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/about-keras-layers/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/core/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/convolutional/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/pooling/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/local/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/recurrent/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/embeddings/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/merge/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/advanced-activations/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/normalization/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/noise/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/wrappers/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/layers/writing-your-own-keras-layers/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/preprocessing/sequence/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/preprocessing/text/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/preprocessing/image/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/losses/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/metrics/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/optimizers/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/activations/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/callbacks/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/datasets/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/applications/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/backend/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/initializers/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/regularizers/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/constraints/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/visualization/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/scikit-learn-api/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/utils/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://keras-team.github.io/keras-contrib/contributing/</loc>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
